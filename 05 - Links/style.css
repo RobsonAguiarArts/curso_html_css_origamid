@@ -1,0 +1,20 @@
+h1{
+  font-size: 3em;
+}
+.title-inicio{color: #112ab2;}
+.title-carros{color: #458185;}
+.title-bicicletas{color: #112436;}
+a{
+padding: 15px;
+background: #111114;
+color: #fff;
+border-radius: 4px;
+margin:  0 10px;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 1.25em;
+font-weight: bold;
+}
+a:hover{
+  background: #313134;
+}
