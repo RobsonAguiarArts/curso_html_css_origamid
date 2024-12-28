@@ -1,0 +1,8 @@
+img{
+  max-width: 100%; /*garante que a imaghem não estoure o elemento pai*/
+  display: block;
+  width: 600px;
+}
+body{
+  background: lightblue;
+}
